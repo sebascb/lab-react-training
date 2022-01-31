@@ -19,7 +19,7 @@ const Greetings = ({lang, children}) => {
             break;
     }
     return (
-        <div className="greetings">
+        <div className="border">
             {greeting}
             {children}
         </div>
