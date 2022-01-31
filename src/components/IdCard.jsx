@@ -8,7 +8,7 @@ const IdCard = ({lastName, firstName, gender, height, birth, picture}) => {
                 <strong>Gender: </strong> {gender} <br />
                 <strong>Height: </strong> {height/100} m <br />
                 <strong>Birth: </strong> {birth.toDateString()} <br />
-            </div>
+            </div>    
         </div>
     )
 }
