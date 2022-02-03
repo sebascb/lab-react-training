@@ -64,4 +64,32 @@
   float: right;
 }
 
+.stars {
+  font-size: 2rem;
+  padding: 0 40px;
+}
+
+.driverCard {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #425cbb;
+  border-radius: 10px;
+  color: white;
+  padding: 5px;
+  margin: 5px;
+}
+
+.photo {
+  width: 100px;
+  height: 100px;
+  border-radius: 100px;
+}
+
+.infoDriver {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
 
