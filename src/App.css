@@ -111,4 +111,19 @@
   margin: 1rem;
 }
 
+.carousel {
+  width: 200px;
+  height: 200px;
+  margin: 1rem;
+}
+
+.carouselBtn {
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  gap: 0.5rem;
+  margin-top: 0rem;
+  margin-bottom: 1rem;
+}
+
 
