@@ -126,4 +126,24 @@
   margin-bottom: 1rem;
 }
 
+.numbersTable {
+  display: grid;
+  grid-template-columns: 100px 100px 100px 100px 100px;
+  padding: 60px 30px; 
+}
+
+.numberTable {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+  border: 2px solid black;
+}
+
+.even {
+  background-color: red;
+}
+
+
 
